@@ -9,6 +9,8 @@ ionic plugin add https://github.com/katzer/cordova-plugin-local-notifications.gi
 
 
  API key : AIzaSyBFexTkQkPKyK7MgQS7Uff8BT-TrHayTMw 
+ 
+ 
  IP : all allowed
  
  
